@@ -1,0 +1,8 @@
+Move (Move a peg directly): move r1 c1 r3 c3
+From (Pick a peg): from r1 c1
+To (Move the chosen peg - Must be used immediately after from command): to r3 c3
+Cheatmode: cheatmode <on or off>
+Undo (Undo last moves): undo <no. of moves>
+Hint (Gives all possible moves): hint 
+Quit (Quits the game): quit
+Reset (Ends the current game and starts a new one): reset
